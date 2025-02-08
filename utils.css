@@ -1,0 +1,10 @@
+h1
+{
+  text-align: left;
+}
+flex{
+  display: flex;
+}
+flex-col{
+  flex-direction: column;
+}

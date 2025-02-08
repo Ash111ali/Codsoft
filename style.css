@@ -1,0 +1,28 @@
+html,body{
+  height: 100%;
+  width: 100%;
+}
+.button{
+  max-width: 50%;
+  margin: 0 3px;
+  padding: 20px;
+  border: 2px;
+  cursor: pointer;
+  border-radius: 9px;
+  
+}
+
+.row{
+  margin: 25px 20px;
+  
+}
+
+.input {
+  margin: 0px;
+  padding: 6px 15px;
+  border: 50px solid-black;
+  border-radius: 5px;
+  font-size: 20px;
+  
+  
+}
